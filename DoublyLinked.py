@@ -1,5 +1,4 @@
 # Bezawit Woldegebriel
-# April 11, 2015
 # DoublyLinkedLists
 
 class Node(object):
