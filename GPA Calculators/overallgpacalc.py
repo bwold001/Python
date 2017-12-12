@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 # Bezawit Woldegebriel
-# Nov 18, 2014
 # Overall GPA calculator
 
 
