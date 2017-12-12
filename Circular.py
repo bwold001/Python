@@ -2,7 +2,6 @@
 
 # Circular Array
 # Bezawit Woldegebriel
-# 04/01/2014
 
 import ctypes
 import math
