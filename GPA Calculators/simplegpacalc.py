@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 # Bezawit Woldegebriel
-# Oct. 23, 2014
 # Simple  GPA calculator
 
 def main ():
