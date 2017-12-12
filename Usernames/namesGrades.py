@@ -1,9 +1,7 @@
 #! /usr/bin/env python3
 
 # Bezawit Woldegebriel
-# Sept. 30, 2014
 # Create usernames by using def function and getting input from user
-
 
 
 def username(first, last):
@@ -16,19 +14,15 @@ def username(first, last):
 
     usrname = firstName + lastName + '001'
     return usrname
-      
-    #username(first, last)
 
 def convertGrade(grade):
     letgrade = [" ", "D", "C", "B", "A", "F"]
     fingrade = letgrade[grade - 1]
     return fingrade
 
-    #convertGrade(grade)
-
 
 def main():
-    infile = open('grades22.txt')
+    infile = open('grades.txt')
 
     for line in infile:
 
