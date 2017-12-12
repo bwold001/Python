@@ -1,7 +1,6 @@
 # /usr/bin/env python3
 
 # Bezawit Woldegebriel
-# Nov. 11, 2014
 # 30 bouncing balls
 
 from random import *
