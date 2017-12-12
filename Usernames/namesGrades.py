@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 # Bezawit Woldegebriel
-# Create usernames by using and process quiz grades
+# Create usernames and process quiz grades
 
 
 def username(first, last):
