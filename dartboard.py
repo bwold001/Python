@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 
 # Bezawit Woldegebriel
-# Nov. 4th, 2014
 # Dartboard
 
 from graphics import *
