@@ -2,7 +2,6 @@
 
 # Bezawit Woldegebriel
 # Non-Destructive list
-# April 18, 2015
 
 class Node(object):
     def __init__(self, data=None, next=None):
